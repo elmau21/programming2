@@ -7,3 +7,4 @@ int main(){ //owo function
 	printf("AAAAAAuwu");
 	return 0;
 }
+	
